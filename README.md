@@ -1,4 +1,4 @@
-# Hi! I'm cmpdchtr.
+# Hi! I'm cmpdchtr 👋
 
 ![alt text][logo]
 
