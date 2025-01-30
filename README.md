@@ -1,2 +1,3 @@
-## Привітики!
-Я Дмитрик, і я роблю якісь рандомні речі на python
+![alt text][logo]
+
+[logo]: https://github.com/cmpdchtr/cmpdchtr/blob/main/cmpdchtr.png?raw=true
